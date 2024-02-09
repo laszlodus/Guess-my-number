@@ -41,6 +41,7 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
 }
 .rightContainer {
     font-size: x-large;
@@ -51,7 +52,6 @@ input {
     font-size: xx-large;
     color: white;
     text-align: center;
-    margin-top: 2rem;
     border: solid 2px white;
     background-color: black;
 }
